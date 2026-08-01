@@ -156,6 +156,13 @@ Future development:
 - User authentication
 - Device monitoring
 
+- ## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
+## Architecture
+
+![Architecture](architecture/system-architecture.png)
 
 # Author
 
